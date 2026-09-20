@@ -17,4 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/MahuyaP25/Leetcode-DSA/tree/master/0100-same-tree) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/MahuyaP25/Leetcode-DSA/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/MahuyaP25/Leetcode-DSA/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
