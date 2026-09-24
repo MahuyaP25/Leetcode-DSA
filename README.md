@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MahuyaP25/Leetcode-DSA/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/MahuyaP25/Leetcode-DSA/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/MahuyaP25/Leetcode-DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MahuyaP25/Leetcode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Hash Table
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/MahuyaP25/Leetcode-DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MahuyaP25/Leetcode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Two Pointers
 |  |
@@ -39,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/MahuyaP25/Leetcode-DSA/tree/master/0088-merge-sorted-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/MahuyaP25/Leetcode-DSA/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
